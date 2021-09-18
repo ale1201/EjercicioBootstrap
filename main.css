@@ -1,0 +1,38 @@
+
+/* Selector de clase */
+.banner{
+    color : white;
+    background-color: #524235;
+    text-align: center;
+    padding: 3rem;
+}
+
+.left-menu {
+    background-color: #f99a3e;
+  }
+
+
+.top-menu {
+    background-color: #c99797;
+  }
+
+.content{
+  background-color: #f2ebeb;
+  padding: 7rem;
+}
+
+.contentC{
+  background-color:white;
+  padding: 7rem;
+}
+
+.ph1{
+  background-color: #bf6767;
+}
+.ph2{
+  background-color: #309bc2;
+}
+.footer{
+  color : white;
+  background-color: #524235;
+}
